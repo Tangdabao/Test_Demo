@@ -35,6 +35,8 @@ ST_AT说明文档由三部分组成
 
 
 
+测试Smart A提交信息 20200330—A from Smart 用户 A
+
 
 
 
