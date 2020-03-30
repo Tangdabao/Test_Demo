@@ -39,6 +39,6 @@ ST_AT说明文档由三部分组成
 
 这是在SmartA拉取的信息，Smart git提交
 
-
+smartgit 在master上提交
 
 
