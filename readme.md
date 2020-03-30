@@ -39,6 +39,4 @@ ST_AT说明文档由三部分组成
 
 本次测试未拉取Smart git提交信息，直接推送差异信息
 
-
-
-
+smart A在Branch1上提交
